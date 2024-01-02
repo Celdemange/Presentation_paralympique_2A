@@ -1,0 +1,18 @@
+<style>
+        body {
+            font-family: 'Georgia', sans-serif;
+            background-color: #add8e6; /* Bleu pastel */
+            color: #333; /* Couleur de texte */
+            margin: 20px;
+            padding: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        h1, h2, h3 {
+            color: #000080; /* Bleu marine */
+        }
+    </style>

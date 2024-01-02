@@ -1,0 +1,15 @@
+body
+{
+   font-family: georgia;
+background-color:darkolivegreen ;
+}
+
+
+#carte
+{
+width: 800px;
+margin:0 auto;
+background-color: lightblue;
+text-align: center;
+align-content: center;
+}

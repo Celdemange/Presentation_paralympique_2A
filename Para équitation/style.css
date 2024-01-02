@@ -1,0 +1,17 @@
+body
+{
+color: black;
+text align: center;
+font-size:75px;
+font-family:Georgia;
+}
+
+
+#centre
+{
+width: 800px;
+margin:0 auto;
+background-color: lightyellow;
+text-align: center;
+align-content: center;
+}

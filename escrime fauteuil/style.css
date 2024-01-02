@@ -1,0 +1,22 @@
+h1
+{
+	color: darkred;
+}
+
+
+body
+{
+	background-color: beige;
+}
+#centre
+{
+	
+	width: 800px;
+	margin:0 auto;
+	background-color: beige;
+	text-align: center;
+	align-content: center;
+}
+{
+	font-display: georgia;
+}

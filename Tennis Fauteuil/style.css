@@ -1,0 +1,67 @@
+h1 {
+	color: darkgoldenrod;
+   }
+body {
+	background-color: darkolivegreen;
+     }
+
+
+#Présentation
+{
+width: 900px;
+margin:0 auto;
+background-color: darkolivegreen;
+text-align: center;
+align-content: center;
+}
+
+
+#images
+{
+width: 800px;
+margin:0 auto;
+background-color: darkolivegreen;
+text-align: center;
+align-content: center;
+}
+
+#titres
+{
+width: 800px;
+margin:0 auto;
+background-color: darkolivegreen;
+text-align: center;
+align-content: center;
+}
+h3 {
+	color: darkgoldenrod;
+   }
+
+#Lesépreuves
+{
+width: 900px;
+margin:0 auto;
+background-color: darkolivegreen;
+text-align: center;
+align-content: center;
+}
+
+#uneathlète
+{
+width: 900px;
+margin:0 auto;
+background-color: darkolivegreen;
+text-align: center;
+align-content: center;
+}
+
+
+#pratique
+{
+width: 900px;
+margin:0 auto;
+background-color: darkolivegreen;
+text-align: center;
+align-content: center;
+}
+font-family:"georgia"

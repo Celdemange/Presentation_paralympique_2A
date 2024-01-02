@@ -1,0 +1,76 @@
+h3
+{
+	Color: darkgoldenrod;
+	width: 800px;
+	margin: 0 auto;
+	background-color: beige;
+	text-align:center;
+	text-decoration: underline;
+
+}
+
+h4
+{
+	color: darkkhaki;
+	margin: 50px;
+	text-decoration: underline;
+}
+
+body 
+{
+	background-color: beige;
+	font-family: 'Gelasio', serif;
+	margin: 35px;
+}
+
+p
+{
+	text-align:space-evenly;
+	align-content:center;
+}
+
+
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+	height: 350px;
+}
+
+#signature 
+{
+	color: teal;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#image
+{
+	display: block;
+	margin: auto;
+	text-align: center;
+	
+}
+
+#mascotte 
+{
+	margin: 35px;
+}
+
+#titre
+{
+	Color: brown;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: beige;
+	text-align:center;
+	border-width: 3px;
+	border-color: brown;
+	border-style: double;
+
+}
+

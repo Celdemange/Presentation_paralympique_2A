@@ -1,0 +1,15 @@
+h1
+{
+color: black;
+text align:center
+font-size:75px
+font-family:Georgia
+}
+
+{
+width: 800px;
+margin:0 auto;
+background-color: white;
+text-align: center;
+align-content: center;
+}
